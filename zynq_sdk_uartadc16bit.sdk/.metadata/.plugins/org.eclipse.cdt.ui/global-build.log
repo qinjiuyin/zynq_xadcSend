@@ -1,0 +1,3156 @@
+21:34:30 **** Build of project adc_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_2/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling coresightps_dcc"
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling scugic"
+xscugic_g.c:53:2: warning: missing initializer for field 'HandlerTable' of 'XScuGic_Config {aka struct <anonymous>}' [-Wmissing-field-initializers]
+  }
+  ^
+In file included from xscugic_g.c:41:0:
+xscugic.h:217:27: note: 'HandlerTable' declared here
+  XScuGic_VectorTableEntry HandlerTable[XSCUGIC_MAX_NUM_INTR_INPUTS];/**<
+                           ^~~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_2/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling standalone"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+
+**** Build of configuration Debug for project adc ****
+
+Nothing to build for project adc
+21:34:48 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+../../adc_bsp/ps7_cortexa9_0/lib\libxil.a(xil-crt0.o): In function `_start':
+xil-crt0.S:(.text+0x68): undefined reference to `main'
+collect2.exe: error: ld returned 1 exit status
+make: *** [adc.elf] 错误 1
+21:35:20 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  79036	   2592	  23360	 104988	  19a1c	adc.elf
+'Finished building: adc.elf.size'
+' '
+21:35:26 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+21:36:04 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+13:21:29 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  79036	   2592	  23360	 104988	  19a1c	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:21:49 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  78956	   2592	  23360	 104908	  199cc	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:21:53 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+13:22:05 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+13:25:52 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c:47:1: error: unknown type name 'XScuGic'
+ XScuGic Intc; //中断控制器驱动程序实例
+ ^~~~~~~
+../src/main.c:48:1: error: unknown type name 'XUartPs'
+ XUartPs Uart_Ps; //串口驱动程序实例
+ ^~~~~~~
+../src/main.c:51:15: error: unknown type name 'XUartPs'
+ int uart_init(XUartPs* uart_ps) {
+               ^~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:79:2: error: unknown type name 'XUartPs'
+  XUartPs *uart_instance_ptr = (XUartPs *) call_back_ref;
+  ^~~~~~~
+../src/main.c:79:32: error: 'XUartPs' undeclared (first use in this function)
+  XUartPs *uart_instance_ptr = (XUartPs *) call_back_ref;
+                                ^~~~~~~
+../src/main.c:79:32: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:79:41: error: expected expression before ')' token
+  XUartPs *uart_instance_ptr = (XUartPs *) call_back_ref;
+                                         ^
+../src/main.c:84:15: warning: implicit declaration of function 'XUartPs_ReadReg' [-Wimplicit-function-declaration]
+  isr_status = XUartPs_ReadReg(uart_instance_ptr->Config.BaseAddress,
+               ^~~~~~~~~~~~~~~
+../src/main.c:84:48: error: request for member 'Config' in something not a structure or union
+  isr_status = XUartPs_ReadReg(uart_instance_ptr->Config.BaseAddress,
+                                                ^~
+../src/main.c:85:4: error: 'XUARTPS_IMR_OFFSET' undeclared (first use in this function)
+    XUARTPS_IMR_OFFSET);
+    ^~~~~~~~~~~~~~~~~~
+../src/main.c:86:49: error: request for member 'Config' in something not a structure or union
+  isr_status &= XUartPs_ReadReg(uart_instance_ptr->Config.BaseAddress,
+                                                 ^~
+../src/main.c:87:4: error: 'XUARTPS_ISR_OFFSET' undeclared (first use in this function)
+    XUARTPS_ISR_OFFSET);
+    ^~~~~~~~~~~~~~~~~~
+../src/main.c:90:25: error: 'XUARTPS_IXR_RXOVR' undeclared (first use in this function)
+  if (isr_status & (u32) XUARTPS_IXR_RXOVR) {
+                         ^~~~~~~~~~~~~~~~~
+../src/main.c:91:14: warning: implicit declaration of function 'XUartPs_RecvByte' [-Wimplicit-function-declaration]
+   rec_data = XUartPs_RecvByte(XPAR_PS7_UART_0_BASEADDR);
+              ^~~~~~~~~~~~~~~~
+../src/main.c:93:3: warning: implicit declaration of function 'XUartPs_WriteReg' [-Wimplicit-function-declaration]
+   XUartPs_WriteReg(uart_instance_ptr->Config.BaseAddress,
+   ^~~~~~~~~~~~~~~~
+../src/main.c:93:37: error: request for member 'Config' in something not a structure or union
+   XUartPs_WriteReg(uart_instance_ptr->Config.BaseAddress,
+                                     ^~
+../src/main.c:80:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+../src/main.c: At top level:
+../src/main.c:100:20: error: unknown type name 'XScuGic'
+ int uart_intr_init(XScuGic *intc, XUartPs *uart_ps) {
+                    ^~~~~~~
+../src/main.c:100:35: error: unknown type name 'XUartPs'
+ int uart_intr_init(XScuGic *intc, XUartPs *uart_ps) {
+                                   ^~~~~~~
+make: *** [src/main.o] 错误 1
+13:26:09 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c:49:1: error: unknown type name 'XUartPs'
+ XUartPs Uart_Ps; //串口驱动程序实例
+ ^~~~~~~
+../src/main.c:52:15: error: unknown type name 'XUartPs'
+ int uart_init(XUartPs* uart_ps) {
+               ^~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:80:2: error: unknown type name 'XUartPs'
+  XUartPs *uart_instance_ptr = (XUartPs *) call_back_ref;
+  ^~~~~~~
+../src/main.c:80:32: error: 'XUartPs' undeclared (first use in this function)
+  XUartPs *uart_instance_ptr = (XUartPs *) call_back_ref;
+                                ^~~~~~~
+../src/main.c:80:32: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:80:41: error: expected expression before ')' token
+  XUartPs *uart_instance_ptr = (XUartPs *) call_back_ref;
+                                         ^
+../src/main.c:85:15: warning: implicit declaration of function 'XUartPs_ReadReg' [-Wimplicit-function-declaration]
+  isr_status = XUartPs_ReadReg(uart_instance_ptr->Config.BaseAddress,
+               ^~~~~~~~~~~~~~~
+../src/main.c:85:48: error: request for member 'Config' in something not a structure or union
+  isr_status = XUartPs_ReadReg(uart_instance_ptr->Config.BaseAddress,
+                                                ^~
+../src/main.c:86:4: error: 'XUARTPS_IMR_OFFSET' undeclared (first use in this function)
+    XUARTPS_IMR_OFFSET);
+    ^~~~~~~~~~~~~~~~~~
+../src/main.c:87:49: error: request for member 'Config' in something not a structure or union
+  isr_status &= XUartPs_ReadReg(uart_instance_ptr->Config.BaseAddress,
+                                                 ^~
+../src/main.c:88:4: error: 'XUARTPS_ISR_OFFSET' undeclared (first use in this function)
+    XUARTPS_ISR_OFFSET);
+    ^~~~~~~~~~~~~~~~~~
+../src/main.c:91:25: error: 'XUARTPS_IXR_RXOVR' undeclared (first use in this function)
+  if (isr_status & (u32) XUARTPS_IXR_RXOVR) {
+                         ^~~~~~~~~~~~~~~~~
+../src/main.c:92:14: warning: implicit declaration of function 'XUartPs_RecvByte' [-Wimplicit-function-declaration]
+   rec_data = XUartPs_RecvByte(XPAR_PS7_UART_0_BASEADDR);
+              ^~~~~~~~~~~~~~~~
+../src/main.c:94:3: warning: implicit declaration of function 'XUartPs_WriteReg' [-Wimplicit-function-declaration]
+   XUartPs_WriteReg(uart_instance_ptr->Config.BaseAddress,
+   ^~~~~~~~~~~~~~~~
+../src/main.c:94:37: error: request for member 'Config' in something not a structure or union
+   XUartPs_WriteReg(uart_instance_ptr->Config.BaseAddress,
+                                     ^~
+../src/main.c:81:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+../src/main.c: At top level:
+../src/main.c:101:35: error: unknown type name 'XUartPs'
+ int uart_intr_init(XScuGic *intc, XUartPs *uart_ps) {
+                                   ^~~~~~~
+make: *** [src/main.o] 错误 1
+13:26:15 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:82:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  87668	   4216	  23472	 115356	  1c29c	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:27:03 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:33:11: warning: implicit declaration of function 'uart_init' [-Wimplicit-function-declaration]
+  status = uart_init(&Uart_Ps); //串口初始化
+           ^~~~~~~~~
+../src/main.c:33:22: error: 'Uart_Ps' undeclared (first use in this function)
+  status = uart_init(&Uart_Ps); //串口初始化
+                      ^~~~~~~
+../src/main.c:33:22: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:39:2: warning: implicit declaration of function 'uart_intr_init' [-Wimplicit-function-declaration]
+  uart_intr_init(&Intc, &Uart_Ps); //串口中断初始化
+  ^~~~~~~~~~~~~~
+../src/main.c:39:18: error: 'Intc' undeclared (first use in this function)
+  uart_intr_init(&Intc, &Uart_Ps); //串口中断初始化
+                  ^~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:96:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:27:07 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:32:11: warning: implicit declaration of function 'uart_init' [-Wimplicit-function-declaration]
+  status = uart_init(&Uart_Ps); //串口初始化
+           ^~~~~~~~~
+../src/main.c:32:22: error: 'Uart_Ps' undeclared (first use in this function)
+  status = uart_init(&Uart_Ps); //串口初始化
+                      ^~~~~~~
+../src/main.c:32:22: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:37:2: warning: implicit declaration of function 'uart_intr_init' [-Wimplicit-function-declaration]
+  uart_intr_init(&Intc, &Uart_Ps); //串口中断初始化
+  ^~~~~~~~~~~~~~
+../src/main.c:37:18: error: 'Intc' undeclared (first use in this function)
+  uart_intr_init(&Intc, &Uart_Ps); //串口中断初始化
+                  ^~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:94:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:27:11 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:34:11: warning: implicit declaration of function 'uart_init' [-Wimplicit-function-declaration]
+  status = uart_init(&Uart_Ps); //串口初始化
+           ^~~~~~~~~
+../src/main.c:34:22: error: 'Uart_Ps' undeclared (first use in this function)
+  status = uart_init(&Uart_Ps); //串口初始化
+                      ^~~~~~~
+../src/main.c:34:22: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:39:2: warning: implicit declaration of function 'uart_intr_init' [-Wimplicit-function-declaration]
+  uart_intr_init(&Intc, &Uart_Ps); //串口中断初始化
+  ^~~~~~~~~~~~~~
+../src/main.c:39:18: error: 'Intc' undeclared (first use in this function)
+  uart_intr_init(&Intc, &Uart_Ps); //串口中断初始化
+                  ^~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:96:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:27:26 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c:13:32: error: stray '\243' in program
+ int uart_init(XUartPs* uart_ps)；
+                                ^
+../src/main.c:13:33: error: stray '\273' in program
+ int uart_init(XUartPs* uart_ps)；
+                                 ^
+../src/main.c: In function 'uart_init':
+../src/main.c:15:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int main(void) {
+                ^
+../src/main.c:69:33: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int uart_init(XUartPs* uart_ps) {
+                                 ^
+../src/main.c:96:45: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ void uart_intr_handler(void *call_back_ref) {
+                                             ^
+../src/main.c:118:53: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int uart_intr_init(XScuGic *intc, XUartPs *uart_ps) {
+                                                     ^
+../src/main.c:13:5: error: old-style parameter declarations in prototyped function definition
+ int uart_init(XUartPs* uart_ps)；
+     ^~~~~~~~~
+../src/main.c:143:1: error: expected '{' at end of input
+ }
+ ^
+../src/main.c:143:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+At top level:
+../src/main.c:11:15: warning: 'xadc_inst' defined but not used [-Wunused-variable]
+ static XAdcPs xadc_inst; //XADC 驱动实例
+               ^~~~~~~~~
+make: *** [src/main.o] 错误 1
+13:27:28 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:36:22: error: 'Uart_Ps' undeclared (first use in this function)
+  status = uart_init(&Uart_Ps); //串口初始化
+                      ^~~~~~~
+../src/main.c:36:22: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:41:2: warning: implicit declaration of function 'uart_intr_init' [-Wimplicit-function-declaration]
+  uart_intr_init(&Intc, &Uart_Ps); //串口中断初始化
+  ^~~~~~~~~~~~~~
+../src/main.c:41:18: error: 'Intc' undeclared (first use in this function)
+  uart_intr_init(&Intc, &Uart_Ps); //串口中断初始化
+                  ^~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:98:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:27:43 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:37:22: error: 'Uart_Ps' undeclared (first use in this function)
+  status = uart_init(&Uart_Ps); //串口初始化
+                      ^~~~~~~
+../src/main.c:37:22: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:42:18: error: 'Intc' undeclared (first use in this function)
+  uart_intr_init(&Intc, &Uart_Ps); //串口中断初始化
+                  ^~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:99:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:27:50 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:37:22: error: 'Uart_Ps' undeclared (first use in this function)
+  status = uart_init(&Uart_Ps); //串口初始化
+                      ^~~~~~~
+../src/main.c:37:22: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:42:18: error: 'Intc' undeclared (first use in this function)
+  uart_intr_init(&Intc, &Uart_Ps); //串口中断初始化
+                  ^~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:99:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:28:06 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_init':
+../src/main.c:15:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int main(void) {
+                ^
+../src/main.c:69:33: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int uart_init(XUartPs* uart_ps) {
+                                 ^
+../src/main.c:96:45: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ void uart_intr_handler(void *call_back_ref) {
+                                             ^
+../src/main.c:118:53: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int uart_intr_init(XScuGic *intc, XUartPs *uart_ps) {
+                                                     ^
+../src/main.c:14:5: error: old-style parameter declarations in prototyped function definition
+ int uart_intr_init(XScuGic *intc, XUartPs *uart_ps)
+     ^~~~~~~~~~~~~~
+../src/main.c:143:1: error: expected '{' at end of input
+ }
+ ^
+../src/main.c:143:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+At top level:
+../src/main.c:11:15: warning: 'xadc_inst' defined but not used [-Wunused-variable]
+ static XAdcPs xadc_inst; //XADC 驱动实例
+               ^~~~~~~~~
+make: *** [src/main.o] 错误 1
+13:28:13 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_init':
+../src/main.c:15:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int main(void) {
+                ^
+../src/main.c:68:33: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int uart_init(XUartPs* uart_ps) {
+                                 ^
+../src/main.c:95:45: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ void uart_intr_handler(void *call_back_ref) {
+                                             ^
+../src/main.c:117:53: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int uart_intr_init(XScuGic *intc, XUartPs *uart_ps) {
+                                                     ^
+../src/main.c:142:1: error: expected '{' at end of input
+ }
+ ^
+../src/main.c:142:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+At top level:
+../src/main.c:11:15: warning: 'xadc_inst' defined but not used [-Wunused-variable]
+ static XAdcPs xadc_inst; //XADC 驱动实例
+               ^~~~~~~~~
+make: *** [src/main.o] 错误 1
+13:28:18 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_init':
+../src/main.c:17:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int main(void) {
+                ^
+../src/main.c:70:33: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int uart_init(XUartPs* uart_ps) {
+                                 ^
+../src/main.c:97:45: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ void uart_intr_handler(void *call_back_ref) {
+                                             ^
+../src/main.c:119:53: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int uart_intr_init(XScuGic *intc, XUartPs *uart_ps) {
+                                                     ^
+../src/main.c:144:1: error: expected '{' at end of input
+ }
+ ^
+../src/main.c:144:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+At top level:
+../src/main.c:11:15: warning: 'xadc_inst' defined but not used [-Wunused-variable]
+ static XAdcPs xadc_inst; //XADC 驱动实例
+               ^~~~~~~~~
+make: *** [src/main.o] 错误 1
+13:28:22 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:100:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:28:55 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:100:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:29:02 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:100:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:29:04 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:100:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:29:23 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:100:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  87732	   4216	  23472	 115420	  1c2dc	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:29:27 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:100:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:29:55 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:98:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:30:03 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:100:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:30:06 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:99:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:30:45 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:30:53 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:99:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:31:09 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:102:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:31:10 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:103:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:31:14 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:21:17: warning: unused variable 'ConfigPtr' [-Wunused-variable]
+  XAdcPs_Config *ConfigPtr; //XADC 配置指针
+                 ^~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:94:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89356	   4204	  23472	 117032	  1c928	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:31:16 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:21:17: warning: unused variable 'ConfigPtr' [-Wunused-variable]
+  XAdcPs_Config *ConfigPtr; //XADC 配置指针
+                 ^~~~~~~~~
+../src/main.c: In function 'adc_init':
+../src/main.c:55:2: error: 'ConfigPtr' undeclared (first use in this function)
+  ConfigPtr = XAdcPs_LookupConfig(XADC_DEVICE_ID);
+  ^~~~~~~~~
+../src/main.c:55:2: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:103:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:31:20 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'adc_init':
+../src/main.c:56:2: error: 'ConfigPtr' undeclared (first use in this function)
+  ConfigPtr = XAdcPs_LookupConfig(XADC_DEVICE_ID);
+  ^~~~~~~~~
+../src/main.c:56:2: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:104:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:31:22 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:104:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:31:26 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:103:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:31:34 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'adc_init':
+../src/main.c:15:16: error: storage class specified for parameter 'Intc'
+ static XScuGic Intc; //中断控制器驱动程序实例
+                ^~~~
+../src/main.c:16:16: error: storage class specified for parameter 'Uart_Ps'
+ static XUartPs Uart_Ps; //串口驱动程序实例
+                ^~~~~~~
+../src/main.c:20:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int main(void) {
+                ^
+../src/main.c:55:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ {
+ ^
+../src/main.c:76:33: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int uart_init(XUartPs* uart_ps) {
+                                 ^
+../src/main.c:103:45: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ void uart_intr_handler(void *call_back_ref) {
+                                             ^
+../src/main.c:125:53: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int uart_intr_init(XScuGic *intc, XUartPs *uart_ps) {
+                                                     ^
+../src/main.c:13:6: error: old-style parameter declarations in prototyped function definition
+ void adc_init(void)
+      ^~~~~~~~
+../src/main.c:150:1: error: expected '{' at end of input
+ }
+ ^
+At top level:
+../src/main.c:10:15: warning: 'xadc_inst' defined but not used [-Wunused-variable]
+ static XAdcPs xadc_inst; //XADC 驱动实例
+               ^~~~~~~~~
+make: *** [src/main.o] 错误 1
+13:31:41 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:105:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:31:44 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:40:41: error: 'xadc_inst' undeclared (first use in this function)
+   vcc_vpvn_rawData = XAdcPs_GetAdcData(&xadc_inst,XADCPS_CH_VPVN);
+                                         ^~~~~~~~~
+../src/main.c:40:41: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c: In function 'adc_init':
+../src/main.c:56:34: error: 'XADC_DEVICE_ID' undeclared (first use in this function)
+  ConfigPtr = XAdcPs_LookupConfig(XADC_DEVICE_ID);
+                                  ^~~~~~~~~~~~~~
+../src/main.c:57:24: error: 'xadc_inst' undeclared (first use in this function)
+  XAdcPs_CfgInitialize(&xadc_inst, ConfigPtr, ConfigPtr->BaseAddress);
+                        ^~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:103:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:31:46 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:39:41: error: 'xadc_inst' undeclared (first use in this function)
+   vcc_vpvn_rawData = XAdcPs_GetAdcData(&xadc_inst,XADCPS_CH_VPVN);
+                                         ^~~~~~~~~
+../src/main.c:39:41: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c: In function 'adc_init':
+../src/main.c:55:34: error: 'XADC_DEVICE_ID' undeclared (first use in this function)
+  ConfigPtr = XAdcPs_LookupConfig(XADC_DEVICE_ID);
+                                  ^~~~~~~~~~~~~~
+../src/main.c:56:24: error: 'xadc_inst' undeclared (first use in this function)
+  XAdcPs_CfgInitialize(&xadc_inst, ConfigPtr, ConfigPtr->BaseAddress);
+                        ^~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:102:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:31:52 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:39:41: error: 'xadc_inst' undeclared (first use in this function)
+   vcc_vpvn_rawData = XAdcPs_GetAdcData(&xadc_inst,XADCPS_CH_VPVN);
+                                         ^~~~~~~~~
+../src/main.c:39:41: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:105:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:31:54 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:39:41: error: 'xadc_inst' undeclared (first use in this function)
+   vcc_vpvn_rawData = XAdcPs_GetAdcData(&xadc_inst,XADCPS_CH_VPVN);
+                                         ^~~~~~~~~
+../src/main.c:39:41: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:104:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:32:04 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:39:41: error: 'xadc_inst' undeclared (first use in this function)
+   vcc_vpvn_rawData = XAdcPs_GetAdcData(&xadc_inst,XADCPS_CH_VPVN);
+                                         ^~~~~~~~~
+../src/main.c:39:41: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c: In function 'adc_init':
+../src/main.c:56:34: error: 'XADC_DEVICE_ID' undeclared (first use in this function)
+  ConfigPtr = XAdcPs_LookupConfig(XADC_DEVICE_ID);
+                                  ^~~~~~~~~~~~~~
+../src/main.c:57:24: error: 'xadc_inst' undeclared (first use in this function)
+  XAdcPs_CfgInitialize(&xadc_inst, ConfigPtr, ConfigPtr->BaseAddress);
+                        ^~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:103:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:32:08 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:39:41: error: 'xadc_inst' undeclared (first use in this function)
+   vcc_vpvn_rawData = XAdcPs_GetAdcData(&xadc_inst,XADCPS_CH_VPVN);
+                                         ^~~~~~~~~
+../src/main.c:39:41: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c: In function 'adc_init':
+../src/main.c:57:24: error: 'xadc_inst' undeclared (first use in this function)
+  XAdcPs_CfgInitialize(&xadc_inst, ConfigPtr, ConfigPtr->BaseAddress);
+                        ^~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:103:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:32:10 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:104:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:32:33 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+13:32:39 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:19:6: warning: unused variable 'status' [-Wunused-variable]
+  int status;
+      ^~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:95:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+At top level:
+../src/main.c:14:16: warning: 'Uart_Ps' defined but not used [-Wunused-variable]
+ static XUartPs Uart_Ps; //串口驱动程序实例
+                ^~~~~~~
+../src/main.c:13:16: warning: 'Intc' defined but not used [-Wunused-variable]
+ static XScuGic Intc; //中断控制器驱动程序实例
+                ^~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  87668	   4216	  23472	 115356	  1c29c	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:33:04 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+13:33:28 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+13:33:36 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+13:34:03 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:19:6: warning: unused variable 'status' [-Wunused-variable]
+  int status;
+      ^~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:95:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+At top level:
+../src/main.c:14:16: warning: 'Uart_Ps' defined but not used [-Wunused-variable]
+ static XUartPs Uart_Ps; //串口驱动程序实例
+                ^~~~~~~
+../src/main.c:13:16: warning: 'Intc' defined but not used [-Wunused-variable]
+ static XScuGic Intc; //中断控制器驱动程序实例
+                ^~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  87668	   4216	  23472	 115356	  1c29c	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:34:05 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+13:34:10 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+13:34:32 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:19:6: warning: unused variable 'status' [-Wunused-variable]
+  int status;
+      ^~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:96:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+At top level:
+../src/main.c:14:16: warning: 'Uart_Ps' defined but not used [-Wunused-variable]
+ static XUartPs Uart_Ps; //串口驱动程序实例
+                ^~~~~~~
+../src/main.c:13:16: warning: 'Intc' defined but not used [-Wunused-variable]
+ static XScuGic Intc; //中断控制器驱动程序实例
+                ^~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  87668	   4216	  23472	 115356	  1c29c	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:34:40 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:19:6: warning: unused variable 'status' [-Wunused-variable]
+  int status;
+      ^~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+At top level:
+../src/main.c:14:16: warning: 'Uart_Ps' defined but not used [-Wunused-variable]
+ static XUartPs Uart_Ps; //串口驱动程序实例
+                ^~~~~~~
+../src/main.c:13:16: warning: 'Intc' defined but not used [-Wunused-variable]
+ static XScuGic Intc; //中断控制器驱动程序实例
+                ^~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  87668	   4216	  23472	 115356	  1c29c	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:34:47 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  89484	   4212	  23472	 117168	  1c9b0	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:34:52 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:20:6: warning: variable 'vcc_vpvn_rawData' set but not used [-Wunused-but-set-variable]
+  u32 vcc_vpvn_rawData; //VpVn 原始数据
+      ^~~~~~~~~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:96:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38364	   2780	  22712	  63856	   f970	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:35:07 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:32:3: error: 'vcc_vpvn_rawData' undeclared (first use in this function)
+   vcc_vpvn_rawData = XAdcPs_GetAdcData(&xadc_inst,XADCPS_CH_VPVN);
+   ^~~~~~~~~~~~~~~~
+../src/main.c:32:3: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:95:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+13:35:12 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:96:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38364	   2780	  22712	  63856	   f970	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:35:13 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+13:35:26 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:37:3: warning: implicit declaration of function 'msleep' [-Wimplicit-function-declaration]
+   msleep(1);
+   ^~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+./src/main.o: In function `main':
+C:\Users\13575\Desktop\Project\zynq_sdk_uartadc16bit\zynq_sdk_uartadc16bit.sdk\adc\Debug/../src/main.c:37: undefined reference to `msleep'
+collect2.exe: error: ld returned 1 exit status
+make: *** [adc.elf] 错误 1
+13:35:56 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+./src/main.o: In function `main':
+C:\Users\13575\Desktop\Project\zynq_sdk_uartadc16bit\zynq_sdk_uartadc16bit.sdk\adc\Debug/../src/main.c:37: undefined reference to `msleep'
+collect2.exe: error: ld returned 1 exit status
+make: *** [adc.elf] 错误 1
+13:36:46 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38364	   2788	  22712	  63864	   f978	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:36:53 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:98:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38428	   2788	  22712	  63928	   f9b8	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:37:00 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:101:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38428	   2788	  22712	  63928	   f9b8	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:37:05 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:96:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38300	   2788	  22712	  63800	   f938	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:37:07 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38300	   2788	  22712	  63800	   f938	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:37:12 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38364	   2788	  22712	  63864	   f978	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:37:47 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38364	   2788	  22712	  63864	   f978	adc.elf
+'Finished building: adc.elf.size'
+' '
+13:37:49 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38364	   2788	  22712	  63864	   f978	adc.elf
+'Finished building: adc.elf.size'
+' '
+14:27:12 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38364	   2788	  22712	  63864	   f978	adc.elf
+'Finished building: adc.elf.size'
+' '
+14:27:16 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:97:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38364	   2788	  22712	  63864	   f978	adc.elf
+'Finished building: adc.elf.size'
+' '
+14:27:17 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+14:33:51 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c:44:1: error: unknown type name 'quint16'
+ quint16 SerialPort::calculateModbusCRC16(char* data, int length)
+ ^~~~~~~
+../src/main.c:44:19: error: expected '=', ',', ';', 'asm' or '__attribute__' before ':' token
+ quint16 SerialPort::calculateModbusCRC16(char* data, int length)
+                   ^
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:126:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+14:33:56 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c:44:1: error: unknown type name 'quint16'
+ quint16 calculateModbusCRC16(char* data, int length)
+ ^~~~~~~
+../src/main.c: In function 'calculateModbusCRC16':
+../src/main.c:46:2: error: unknown type name 'quint16'
+  quint16 crc = 0xFFFF;
+  ^~~~~~~
+../src/main.c:50:11: error: 'quint16' undeclared (first use in this function)
+   crc ^= (quint16)data[i];
+           ^~~~~~~
+../src/main.c:50:11: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:50:19: error: expected ';' before 'data'
+   crc ^= (quint16)data[i];
+                   ^~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:126:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+14:34:05 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'calculateModbusCRC16':
+../src/main.c:46:2: error: unknown type name 'quint16'
+  quint16 crc = 0xFFFF;
+  ^~~~~~~
+../src/main.c:50:11: error: 'quint16' undeclared (first use in this function)
+   crc ^= (quint16)data[i];
+           ^~~~~~~
+../src/main.c:50:11: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:50:19: error: expected ';' before 'data'
+   crc ^= (quint16)data[i];
+                   ^~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:126:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+14:34:10 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'calculateModbusCRC16':
+../src/main.c:50:11: error: 'quint16' undeclared (first use in this function)
+   crc ^= (quint16)data[i];
+           ^~~~~~~
+../src/main.c:50:11: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:50:19: error: expected ';' before 'data'
+   crc ^= (quint16)data[i];
+                   ^~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:126:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+14:34:12 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:126:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38620	   2788	  22712	  64120	   fa78	adc.elf
+'Finished building: adc.elf.size'
+' '
+14:34:16 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:126:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38620	   2788	  22712	  64120	   fa78	adc.elf
+'Finished building: adc.elf.size'
+' '
+14:34:28 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:127:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38620	   2788	  22712	  64120	   fa78	adc.elf
+'Finished building: adc.elf.size'
+' '
+14:37:02 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:22:7: warning: unused variable 'WriteBuf' [-Wunused-variable]
+  char WriteBuf[6];
+       ^~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:128:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38620	   2788	  22712	  64120	   fa78	adc.elf
+'Finished building: adc.elf.size'
+' '
+14:37:12 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:22:7: warning: unused variable 'WriteBuf' [-Wunused-variable]
+  char WriteBuf[6];
+       ^~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:127:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38620	   2788	  22712	  64120	   fa78	adc.elf
+'Finished building: adc.elf.size'
+' '
+14:37:35 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:22:7: warning: unused variable 'WriteBuf' [-Wunused-variable]
+  char WriteBuf[6] = {0x02 , 0x00 , 0x00 , 0x03 , 0x00 , 0x00};
+       ^~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:127:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38628	   2788	  22712	  64128	   fa80	adc.elf
+'Finished building: adc.elf.size'
+' '
+14:38:09 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:22:7: warning: variable 'WriteBuf' set but not used [-Wunused-but-set-variable]
+  char WriteBuf[6] = {0x02 , 0x00 , 0x00 , 0x03 , 0x00 , 0x00};
+       ^~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:128:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38692	   2788	  22712	  64192	   fac0	adc.elf
+'Finished building: adc.elf.size'
+' '
+14:38:10 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+14:38:14 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:22:7: warning: variable 'WriteBuf' set but not used [-Wunused-but-set-variable]
+  char WriteBuf[6] = {0x02 , 0x00 , 0x00 , 0x03 , 0x00 , 0x00};
+       ^~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:129:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38692	   2788	  22712	  64192	   fac0	adc.elf
+'Finished building: adc.elf.size'
+' '
+14:38:19 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:22:7: warning: variable 'WriteBuf' set but not used [-Wunused-but-set-variable]
+  char WriteBuf[6] = {0x02 , 0x00 , 0x00 , 0x03 , 0x00 , 0x00};
+       ^~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:129:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38692	   2788	  22712	  64192	   fac0	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:10:08 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:23:17: warning: unused variable 'CRCValue' [-Wunused-variable]
+  unsigned short CRCValue = 0xffff;
+                 ^~~~~~~~
+../src/main.c:22:7: warning: variable 'WriteBuf' set but not used [-Wunused-but-set-variable]
+  char WriteBuf[6] = {0x02 , 0x00 , 0x00 , 0x03 , 0x00 , 0x00};
+       ^~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:131:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38692	   2788	  22712	  64192	   fac0	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:10:29 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:42:15: error: too few arguments to function 'calculateModbusCRC16'
+    CRCValue = calculateModbusCRC16();
+               ^~~~~~~~~~~~~~~~~~~~
+../src/main.c:9:16: note: declared here
+ unsigned short calculateModbusCRC16(char* data, int length);
+                ^~~~~~~~~~~~~~~~~~~~
+../src/main.c:23:17: warning: variable 'CRCValue' set but not used [-Wunused-but-set-variable]
+  unsigned short CRCValue = 0xffff;
+                 ^~~~~~~~
+../src/main.c:22:7: warning: variable 'WriteBuf' set but not used [-Wunused-but-set-variable]
+  char WriteBuf[6] = {0x02 , 0x00 , 0x00 , 0x03 , 0x00 , 0x00};
+       ^~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:131:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+15:10:33 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:23:17: warning: variable 'CRCValue' set but not used [-Wunused-but-set-variable]
+  unsigned short CRCValue = 0xffff;
+                 ^~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:131:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38692	   2788	  22712	  64192	   fac0	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:10:35 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:23:17: warning: variable 'CRCValue' set but not used [-Wunused-but-set-variable]
+  unsigned short CRCValue = 0xffff;
+                 ^~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:132:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38692	   2788	  22712	  64192	   fac0	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:11:11 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:132:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38756	   2788	  22712	  64256	   fb00	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:11:12 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:11:23 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:133:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38756	   2788	  22712	  64256	   fb00	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:11:52 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:133:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38820	   2788	  22712	  64320	   fb40	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:12:02 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:134:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38820	   2788	  22712	  64320	   fb40	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:12:08 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:46:4: error: too few arguments to function 'uart_senfBuf'
+    uart_senfBuf();
+    ^~~~~~~~~~~~
+../src/main.c:18:6: note: declared here
+ void uart_senfBuf(char* pbuff,int lenght);
+      ^~~~~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:135:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+15:12:12 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:135:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38820	   2788	  22712	  64320	   fb40	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:12:26 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:135:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+../src/main.c: In function 'uart_senfBuf':
+../src/main.c:185:6: warning: unused variable 'i' [-Wunused-variable]
+  int i = 0;
+      ^
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38820	   2788	  22712	  64320	   fb40	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:12:39 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:135:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38820	   2788	  22712	  64320	   fb40	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:12:42 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:135:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+../src/main.c: In function 'uart_senfBuf':
+../src/main.c:188:46: error: 'rec_data' undeclared (first use in this function)
+   XUartPs_SendByte(XPAR_PS7_UART_0_BASEADDR, rec_data);
+                                              ^~~~~~~~
+../src/main.c:188:46: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/main.o] 错误 1
+15:12:47 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:135:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38884	   2788	  22712	  64384	   fb80	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:12:51 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:13:35 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:13:49 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:43:12 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:43:46 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:44:30 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:47:51 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:48:30 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:48:59 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:49:26 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:50:50 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:51:49 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:53:22 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:135:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38884	   2788	  22712	  64384	   fb80	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:53:27 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:53:52 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:55:50 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:56:04 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:57:33 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c:53:16: error: conflicting types for 'calculateModbusCRC16'
+ unsigned short calculateModbusCRC16(unsigned char* data, int length)
+                ^~~~~~~~~~~~~~~~~~~~
+../src/main.c:9:16: note: previous declaration of 'calculateModbusCRC16' was here
+ unsigned short calculateModbusCRC16(char* data, int length);
+                ^~~~~~~~~~~~~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:135:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+15:57:41 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c:53:16: error: conflicting types for 'calculateModbusCRC16'
+ unsigned short calculateModbusCRC16(unsigned char* data, int length)
+                ^~~~~~~~~~~~~~~~~~~~
+../src/main.c:9:16: note: previous declaration of 'calculateModbusCRC16' was here
+ unsigned short calculateModbusCRC16(char* data, int length);
+                ^~~~~~~~~~~~~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:135:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+make: *** [src/main.o] 错误 1
+15:57:56 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:43:36: warning: pointer targets in passing argument 1 of 'calculateModbusCRC16' differ in signedness [-Wpointer-sign]
+    CRCValue = calculateModbusCRC16(WriteBuf,4);
+                                    ^~~~~~~~
+../src/main.c:9:16: note: expected 'unsigned char *' but argument is of type 'char *'
+ unsigned short calculateModbusCRC16(unsigned char* data, int length);
+                ^~~~~~~~~~~~~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:135:6: warning: variable 'rec_data' set but not used [-Wunused-but-set-variable]
+  u32 rec_data = 0;
+      ^~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38884	   2788	  22712	  64384	   fb80	adc.elf
+'Finished building: adc.elf.size'
+' '
+15:57:59 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:58:54 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:59:33 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+15:59:47 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+16:01:03 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:43:36: warning: pointer targets in passing argument 1 of 'calculateModbusCRC16' differ in signedness [-Wpointer-sign]
+    CRCValue = calculateModbusCRC16(WriteBuf,4);
+                                    ^~~~~~~~
+../src/main.c:9:16: note: expected 'unsigned char *' but argument is of type 'char *'
+ unsigned short calculateModbusCRC16(unsigned char* data, int length);
+                ^~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38884	   2788	  22712	  64384	   fb80	adc.elf
+'Finished building: adc.elf.size'
+' '
+16:01:06 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:43:36: warning: pointer targets in passing argument 1 of 'calculateModbusCRC16' differ in signedness [-Wpointer-sign]
+    CRCValue = calculateModbusCRC16(WriteBuf,4);
+                                    ^~~~~~~~
+../src/main.c:9:16: note: expected 'unsigned char *' but argument is of type 'char *'
+ unsigned short calculateModbusCRC16(unsigned char* data, int length);
+                ^~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38884	   2788	  22712	  64384	   fb80	adc.elf
+'Finished building: adc.elf.size'
+' '
+16:01:21 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:43:36: warning: pointer targets in passing argument 1 of 'calculateModbusCRC16' differ in signedness [-Wpointer-sign]
+    CRCValue = calculateModbusCRC16(WriteBuf,4);
+                                    ^~~~~~~~
+../src/main.c:9:16: note: expected 'unsigned char *' but argument is of type 'char *'
+ unsigned short calculateModbusCRC16(unsigned char* data, int length);
+                ^~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38884	   2788	  22712	  64384	   fb80	adc.elf
+'Finished building: adc.elf.size'
+' '
+16:01:36 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:46:17: warning: pointer targets in passing argument 1 of 'uart_senfBuf' differ in signedness [-Wpointer-sign]
+    uart_senfBuf(WriteBuf,6);
+                 ^~~~~~~~
+../src/main.c:18:6: note: expected 'char *' but argument is of type 'unsigned char *'
+ void uart_senfBuf(char* pbuff,int lenght);
+      ^~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38884	   2788	  22712	  64384	   fb80	adc.elf
+'Finished building: adc.elf.size'
+' '
+16:01:47 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:46:17: warning: pointer targets in passing argument 1 of 'uart_senfBuf' differ in signedness [-Wpointer-sign]
+    uart_senfBuf(WriteBuf,6);
+                 ^~~~~~~~
+../src/main.c:18:6: note: expected 'char *' but argument is of type 'unsigned char *'
+ void uart_senfBuf(char* pbuff,int lenght);
+      ^~~~~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:154:21: error: stray '\243' in program
+   AcquisitionADC = 0；
+                     ^
+../src/main.c:154:22: error: stray '\273' in program
+   AcquisitionADC = 0；
+                      ^
+../src/main.c:155:2: error: expected ';' before '}' token
+  }
+  ^
+make: *** [src/main.o] 错误 1
+16:01:49 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:46:17: warning: pointer targets in passing argument 1 of 'uart_senfBuf' differ in signedness [-Wpointer-sign]
+    uart_senfBuf(WriteBuf,6);
+                 ^~~~~~~~
+../src/main.c:18:6: note: expected 'char *' but argument is of type 'unsigned char *'
+ void uart_senfBuf(char* pbuff,int lenght);
+      ^~~~~~~~~~~~
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:154:21: error: stray '\243' in program
+   AcquisitionADC = 0；
+                     ^
+../src/main.c:154:22: error: stray '\273' in program
+   AcquisitionADC = 0；
+                      ^
+../src/main.c:155:2: error: expected ';' before '}' token
+  }
+  ^
+make: *** [src/main.o] 错误 1
+16:02:05 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:46:17: warning: pointer targets in passing argument 1 of 'uart_senfBuf' differ in signedness [-Wpointer-sign]
+    uart_senfBuf(WriteBuf,6);
+                 ^~~~~~~~
+../src/main.c:18:6: note: expected 'char *' but argument is of type 'unsigned char *'
+ void uart_senfBuf(char* pbuff,int lenght);
+      ^~~~~~~~~~~~
+../src/main.c: At top level:
+../src/main.c:187:6: error: conflicting types for 'uart_senfBuf'
+ void uart_senfBuf(unsigned char* pbuff,int lenght)
+      ^~~~~~~~~~~~
+../src/main.c:18:6: note: previous declaration of 'uart_senfBuf' was here
+ void uart_senfBuf(char* pbuff,int lenght);
+      ^~~~~~~~~~~~
+make: *** [src/main.o] 错误 1
+16:02:15 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38884	   2788	  22712	  64384	   fb80	adc.elf
+'Finished building: adc.elf.size'
+' '
+16:02:41 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+16:03:22 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'uart_intr_handler':
+../src/main.c:158:46: error: 'pbuff' undeclared (first use in this function)
+   XUartPs_SendByte(XPAR_PS7_UART_0_BASEADDR, pbuff[i]);
+                                              ^~~~~
+../src/main.c:158:46: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:158:52: error: 'i' undeclared (first use in this function)
+   XUartPs_SendByte(XPAR_PS7_UART_0_BASEADDR, pbuff[i]);
+                                                    ^
+make: *** [src/main.o] 错误 1
+16:03:25 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  38948	   2788	  22712	  64448	   fbc0	adc.elf
+'Finished building: adc.elf.size'
+' '
+16:03:30 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+16:07:03 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  39012	   2788	  22712	  64512	   fc00	adc.elf
+'Finished building: adc.elf.size'
+' '
+16:07:08 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+16:57:00 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+16:58:42 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+16:58:47 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+16:59:31 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+16:59:40 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  39012	   2788	  22712	  64512	   fc00	adc.elf
+'Finished building: adc.elf.size'
+' '
+17:06:16 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  39012	   2788	  22712	  64512	   fc00	adc.elf
+'Finished building: adc.elf.size'
+' '
+19:30:34 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+19:30:57 **** Auto Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  39012	   2788	  22712	  64512	   fc00	adc.elf
+'Finished building: adc.elf.size'
+' '
+19:30:58 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+19:31:02 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+19:32:28 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+19:34:30 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+19:36:13 **** Incremental Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+19:42:12 **** Clean-only build of configuration Debug for project adc ****
+make clean 
+rm -rf  ./src/main.o  ./src/main.d  adc.elf.size  adc.elf
+' '
+19:42:12 **** Clean-only build of project adc_bsp ****
+make -k clean 
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s clean 
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s clean 
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s clean 
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s clean 
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s clean 
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_2/src -s clean 
+make -C ps7_cortexa9_0/libsrc/scugic_v3_6/src -s clean 
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s clean 
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s clean 
+make -C ps7_cortexa9_0/libsrc/standalone_v6_2/src -s clean 
+make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s clean 
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s clean 
+rm -f ps7_cortexa9_0/lib/libxil.a
+19:42:13 **** Build of project adc_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_2/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling coresightps_dcc"
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling scugic"
+xscugic_g.c:53:2: warning: missing initializer for field 'HandlerTable' of 'XScuGic_Config {aka struct <anonymous>}' [-Wmissing-field-initializers]
+  }
+  ^
+In file included from xscugic_g.c:41:0:
+xscugic.h:217:27: note: 'HandlerTable' declared here
+  XScuGic_VectorTableEntry HandlerTable[XSCUGIC_MAX_NUM_INTR_INPUTS];/**<
+                           ^~~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_2/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling standalone"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+19:42:22 **** Build of configuration Debug for project adc ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../adc_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: adc.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../adc_bsp/ps7_cortexa9_0/lib -o "adc.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: adc.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size adc.elf  |tee "adc.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  39012	   2788	  22712	  64512	   fc00	adc.elf
+'Finished building: adc.elf.size'
+' '
